@@ -4,6 +4,6 @@ This is a sample project to test out the [FBSimulatorControl](https://github.com
 
 The unit test is not a real test, it just keeps occupied the simulator for 5 seconds.
 
-# Installation
+## Installation
 
-After cloning the repository run [run.sh](https://github.com/gblotter/FBSimulatorControlDemo/blob/master/run.sh). This should compile everything, and after it should run all of the termination notification tests which I can think of.
+After cloning the repository run [run.sh](https://github.com/gblotter/FBSimulatorControlDemo/blob/master/run.sh). This should compile everything, and after it should run all of the termination notification tests which I can think of.  
