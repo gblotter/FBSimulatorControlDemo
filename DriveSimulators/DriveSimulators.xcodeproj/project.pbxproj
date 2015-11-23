@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9C29FD4D1C03A0F5007547F3 /* PBXContainerItemProxy */ = {
+		9C86AC861C03B1C7000EC5A5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9C8DEE7D1BFA948100A8039C /* FBSimulatorControl.xcodeproj */;
 			proxyType = 1;
@@ -51,6 +51,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9C86AC841C03B1B2000EC5A5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9C8DEE601BFA7DB100A8039C /* DriveSimulators */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DriveSimulators; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8DEE631BFA7DB100A8039C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9C8DEE6A1BFA87B800A8039C /* TestRunner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestRunner.swift; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 		9C8DEE571BFA7DB100A8039C = {
 			isa = PBXGroup;
 			children = (
+				9C86AC841C03B1B2000EC5A5 /* README.md */,
 				9C8DEE6C1BFA8B1200A8039C /* run.sh */,
 				9C8DEE7D1BFA948100A8039C /* FBSimulatorControl.xcodeproj */,
 				9C8DEE621BFA7DB100A8039C /* DriveSimulators */,
@@ -124,7 +126,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				9C29FD4E1C03A0F5007547F3 /* PBXTargetDependency */,
+				9C86AC871C03B1C7000EC5A5 /* PBXTargetDependency */,
 			);
 			name = DriveSimulators;
 			productName = DriveSimulators;
@@ -201,10 +203,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9C29FD4E1C03A0F5007547F3 /* PBXTargetDependency */ = {
+		9C86AC871C03B1C7000EC5A5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FBSimulatorControl;
-			targetProxy = 9C29FD4D1C03A0F5007547F3 /* PBXContainerItemProxy */;
+			targetProxy = 9C86AC861C03B1C7000EC5A5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 

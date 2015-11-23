@@ -48,8 +48,6 @@ git submodule update
 log_msg "FBSimulatorControl submodule initialized."
 
 cd "${SCRIPT_DIR}/FBSimulatorControl"
-#log_msg "Installing CocoaPods dependencies..."
-#pod install
 
 log_msg "Building the simulator driver..."
 cd "${SCRIPT_DIR}/DriveSimulators"

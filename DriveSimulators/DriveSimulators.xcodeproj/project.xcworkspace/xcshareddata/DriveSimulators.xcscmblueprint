@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B75D74E8009B0BD40595DFD28D27E6E3AD57BB1C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B75D74E8009B0BD40595DFD28D27E6E3AD57BB1C" : 0,
+    "E40059CFFA684C8CBD4ADFB708E466AEEFC39DF8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EC69165-7141-4119-98F9-DD75EB124B6E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B75D74E8009B0BD40595DFD28D27E6E3AD57BB1C" : "FBSim-Demo\/",
+    "E40059CFFA684C8CBD4ADFB708E466AEEFC39DF8" : "FBSim-Demo\/FBSimulatorControl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DriveSimulators",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DriveSimulators\/DriveSimulators.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gblotter\/FBSimulatorControlDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B75D74E8009B0BD40595DFD28D27E6E3AD57BB1C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gblotter\/FBSimulatorControl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E40059CFFA684C8CBD4ADFB708E466AEEFC39DF8"
+    }
+  ]
+}
