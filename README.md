@@ -6,4 +6,4 @@ The unit test is not a real test, it just keeps occupied the simulator for 5 sec
 
 ## Installation
 
-After cloning the repository run [run.sh](https://github.com/gblotter/FBSimulatorControlDemo/blob/master/run.sh). This should compile everything, and after it should run all of the termination notification tests which I can think of.  
+After cloning the repository run [run.sh](https://github.com/gblotter/FBSimulatorControlDemo/blob/master/run.sh). This should compile everything, and after it should run call the xctest archive for the [SingleViewApp](https://github.com/gblotter/FBSimulatorControlDemo/tree/master/SingleViewApp) app.
